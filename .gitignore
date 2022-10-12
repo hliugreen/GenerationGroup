@@ -1,3 +1,7 @@
+# File Management
+.vscode
+.DS_Store
+
 # Logs
 logs
 *.log
